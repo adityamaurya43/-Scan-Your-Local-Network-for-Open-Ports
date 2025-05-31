@@ -45,3 +45,6 @@ Unsecured services may allow remote access or vulnerabilities
 # Scan Result Export: Ifyou want to save the result in file
 Can be saved using -oN for normal text, -oX for XML, -oA for all
 Example: nmap -sS 192.168.232.128/24 -oN scan_results.txt
+
+# Conclusion
+This assignment demonstrated how to perform a TCP SYN scan using Nmap in Kali Linux, analyze live traffic using Wireshark, and interpret the output to identify security risks from open ports. These skills are foundational for network reconnaissance and penetration testing.
